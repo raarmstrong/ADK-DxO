@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+
+# Environment Variables
+.env
+
+# MacOS
+.DS_Store
+
+# Google ADK / ADK-DxO
+.adk/
+
+# Potentially Sensitive / Copyrighted Content
+docs/
+archive/
+*.pdf
+case_anon_*

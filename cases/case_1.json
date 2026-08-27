@@ -1,0 +1,14 @@
+{
+  "id": "case_1",
+  "vignette": "A 63-year-old woman was evaluated for dyspnea and chest pain.",
+  "history_of_present_illness": "The patient presented with acute onset dyspnea and pleuritic chest pain that started 2 hours ago. The pain is sharp, worse with deep inspiration.",
+  "past_medical_history": "Hypertension. Recently underwent right knee replacement surgery two weeks ago.",
+  "medications": "Lisinopril 10mg daily. Acetaminophen PRN for pain.",
+  "physical_exam": "Vitals: HR 110, RR 22, BP 130/80, O2 sat 92% on room air. Lungs are clear to auscultation bilaterally. Heart is tachycardic but regular. Left leg is swollen, warm, and tender to palpation in the calf (positive Homan's sign).",
+  "test_results": {
+    "labs": "D-dimer: 4500 ng/mL (High). Troponin: 0.05 ng/mL (Slightly elevated). Basic metabolic panel and complete blood count are within normal limits.",
+    "ecg": "Sinus tachycardia at 110 bpm. S1Q3T3 pattern present.",
+    "imaging": "Chest X-ray: Clear, no infiltrates or effusions. Lower extremity ultrasound: Non-compressible deep vein in the left popliteal region consistent with deep vein thrombosis (DVT). CT Pulmonary Angiography (CTPA): Large filling defect in the right main pulmonary artery extending into the lower lobe branches."
+  },
+  "ground_truth": "Pulmonary Embolism (PE) secondary to DVT"
+}

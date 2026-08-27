@@ -1,0 +1,14 @@
+{
+  "id": "case_2",
+  "vignette": "A 45-year-old man presents with severe, sudden-onset headache.",
+  "history_of_present_illness": "He describes it as the 'worst headache of his life' (thunderclap headache) which started abruptly while he was lifting heavy boxes. It was associated with one episode of vomiting and photophobia.",
+  "past_medical_history": "None significant. Non-smoker.",
+  "medications": "None.",
+  "physical_exam": "Vitals: BP 160/95, HR 90, afebrile (37.1 C). Neurological exam: Awake, alert, oriented x3. Positive Brudzinski's and Kernig's signs indicating meningeal irritation. Pupils are equal, round, and reactive to light. No focal motor or sensory neurologic deficits.",
+  "test_results": {
+    "labs": "CBC, BMP, coagulation panel, and troponin are all within normal limits.",
+    "imaging": "Non-contrast CT head: Hyperdensity in the basal cisterns and Sylvian fissure, characteristic of acute subarachnoid hemorrhage. CT Angiography (CTA) brain: 6mm saccular aneurysm at the junction of the anterior communicating artery.",
+    "procedures": "Lumbar puncture deferred due to positive CT head confirming SAH."
+  },
+  "ground_truth": "Subarachnoid Hemorrhage (SAH) due to ruptured aneurysm"
+}
