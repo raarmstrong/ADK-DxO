@@ -12,7 +12,7 @@ This repository currently represents a **Proof of Concept** designed to allow re
 - **Limited Turn Architecture**: To prevent runaway API costs and infinite loops during local testing, the orchestrator is hard-coded with a maximum round limit. If the panel does not reach a consensus by the final round, Dr. Checklist is forcefully prompted to output a final diagnosis.
 - **Choice of Model**: Whilst the architecture is model-agnostic, the POC is configured to use Google Gemini 3.5 Flash Lite throughout for efficiency of speed and cost. 
 
-## itation & Acknowledgments
+## Citation & Acknowledgments
 The architectural concepts, personas (Dr. Hypothesis, Dr. Test-Chooser, Dr. Challenger, Dr. Stewardship, Dr. Checklist), and evaluation frameworks implemented in this repository are based on:
 
 > **Sequential Diagnosis with Language Models**
